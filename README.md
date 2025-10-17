@@ -1,7 +1,8 @@
 ## Hi there 👋
+<!-- GitHub Banner -->
+![](https://raw.githubusercontent.com/vanamalimatha123/vanamalimatha123/main/Banner.png)
 
 <!-- GitHub Banner -->
-![](https://raw.githubusercontent.com/vanamalimatha123/vanamalimatha123/main/github_banner.png)
 
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/vanamalimatha123" target="_blank">Vanamali Matha</a> 👋</h1>
 <h3 align="center">IT Project Coordinator | IT Service Delivery | ITIL® | PMP® | AWS & GCP Certified ☁️</h3>
