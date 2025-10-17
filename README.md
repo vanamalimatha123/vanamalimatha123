@@ -14,17 +14,48 @@
 
 ---
 
-## 💫 About Me
+## 🙋‍♂️ About Me
 
-🌍 **IT Service Delivery & Project Coordination Professional** with 3+ years of experience in managing  
-incident, change, and request workflows across enterprise environments.  
+Experienced IT Project Coordinator | Service Delivery & ITSM Analyst 🌍
 
-⚙️ I specialize in:
-- ITIL-based operations (Incident, Change, Problem, Request)
-- Dispatch & Field Service Coordination  
-- SLA/OLA tracking, RCA follow-up, and KPI reporting  
-- Stakeholder, Vendor, and Resource Management  
-- Workflow Automation & Data-driven Service Reporting  
+I’m an IT Project Coordinator & Service Delivery Specialist with **3.5+ years** of experience optimizing global IT operations 24×7 for enterprise clients across **BFSI, Healthcare, Retail, Telecom, Manufacturing, Automotive, and Construction** sectors.
+
+I specialize in managing end-to-end IT service delivery and ITIL® processes, handling incidents (P1–P4), change management, and IMAC service requests. Whether it’s dispatching field engineers, coordinating FSRs/Incidents, executing global infrastructure changes, or planning multi-site deployments, I make sure the right people, tools, and resources are in place to get the job done on time and without surprises.
+
+---
+
+## ✨ Key Highlights
+
+- Managed end-to-end ITSM support for global clients — delivered **98%+ SLA compliance**.  
+- Reduced P1–P4 incident resolution times by **40%** through proactive coordination.  
+- Coordinated **200+ monthly change requests** with ~98% ITIL® compliance.  
+- Delivered **$6.6M** in cost savings through decommissioning projects.  
+- Boosted technician scheduling efficiency — improved service completion rates & customer satisfaction.  
+- Earned multiple **Client Awards** & **Champ Awards** for service excellence.
+
+---
+
+## 🛠️ Tools & Skills
+
+**Programming & Web:** C · Java · HTML · JavaScript · CSS
+
+**IT Service Management & Processes:**  
+- ITSM Processes: Incident, Change, Problem, Service Request, Knowledge Management  
+- ITIL Framework · Major Incident Management (P1/P2) · SLA/OLA Monitoring & Compliance · SLM · RCA Follow-Up
+
+**Service Delivery & Operations:**  
+- Project Management · Service Delivery Coordination · Dispatch & Field Coordination · FSR Planning · Logistics & IMACD Support  
+- Asset Management · Order Management · Stakeholder Management · Risk Management · Resource Management & Allocation · Vendor Management
+
+**Data, Reporting & Automation:**  
+- Data Analysis · Requirements Gathering · Workflow Management · RTA · Workforce Planning · Cross-Functional Team Collaboration · Dashboards · Reporting & KPI Tracking
+
+**Customer & Support:**  
+- Customer/Client Relationship (CRM) · Handling Escalations · Service Desk Operations · Customer Service & Technical Support
+
+**Tools:** ServiceNow (SNOW) · Jira · Dynatrace · AWS Connect · SIMS · Tekumo · FieldNation · SharePoint · PuTTY/UPS · Appgate · Ivanti · MS Office 365 · TRS
+
+--- 
 
 🎯 **Mission:** Delivering Seamless IT Operations through people, process, and technology excellence.  
 
@@ -46,7 +77,7 @@ incident, change, and request workflows across enterprise environments.
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tekumo-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tekumo-000560?style=for-the-badge&logoColor=red"/>
 <img src="https://img.shields.io/badge/FieldNation-0052CC?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -80,10 +111,10 @@ incident, change, and request workflows across enterprise environments.
 
 | 🗂️ Repository | 🔍 Description |
 |---------------|----------------|
-| [🧾 ServiceNow Reports Automation](https://github.com/vanamalimatha123/ServiceNow-Reports-Automation) | Templates & scripts for automating ITSM data reports |
-| [📊 Change Management Dashboard](https://github.com/vanamalimatha123/Change-Management-Dashboard) | Power BI dashboard for SLA tracking |
-| [📘 ITIL Workflow Guide](https://github.com/vanamalimatha123/Incident-Workflow-Guide) | Documented ITIL workflows for incident lifecycle |
-| [🖥️ Infra Decommission Project](https://github.com/vanamalimatha123/Infra-Decommission-Project) | Documentation for legacy system decommissioning |
+| 🧾 ServiceNow Reports Automation] | Templates & scripts for automating ITSM data reports |
+| 📊 Change Management Dashboard] | Power BI dashboard for SLA tracking |
+| 📘 ITIL Workflow Guide]| Documented ITIL workflows for incident lifecycle |
+| 🖥️ Infra Decommission Project]| Documentation for legacy system decommissioning |
 
 ---
 
